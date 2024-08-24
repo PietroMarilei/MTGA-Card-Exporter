@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Output files
+*.csv
+
+# Sensitive data
+config.py
+secrets.py
+*_key.py
+*_token.py
+
+# MTGA specific
+AllPrintings.json
+UTC_Log*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+*.exe
+*.spec
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
