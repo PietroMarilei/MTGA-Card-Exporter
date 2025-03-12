@@ -39,6 +39,7 @@ To install:
     The file is named `UTC_Log - [date].log`
   - Windows (Standard version): `%appdata%/../LocalLow/Wizards Of The Coast/MTGA`
   - macOS: `~/Library/Logs/Wizards Of The Coast/MTGA`
+  - Ubuntu: '/home/<username>/.steam/debian-installation/steamapps/common/MTGA/MTGA_Data/Logs/Logs/'
 - AllPrintings.json: Download from [MTGJSON](https://mtgjson.com/downloads/all-files/)
 
 ## Output and Troubleshooting
